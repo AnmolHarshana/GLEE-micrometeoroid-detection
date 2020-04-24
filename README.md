@@ -14,6 +14,6 @@ Elecentro_EW=data file with East-West componenets of an Earthquake
 
 Code files:
 
-Micrometeoroid_Detection.ipynb=code for wave separation and micrometeoroid detection
+Micrometeoroid_Detection.ipynb=code for events separation and micrometeoroid detection
 
 PandS_wave.ipynb=code for marking p and s wave.
