@@ -17,3 +17,8 @@ Code files:
 Micrometeoroid_Detection.ipynb=code for events separation and micrometeoroid detection
 
 PandS_wave.ipynb=code for marking p and s wave.
+
+simple_ps.ipynb: Relatively simpler algorithm for p-s marking
+
+Wavelet_analysis:Both functions of p and s wave marking compared.
+
